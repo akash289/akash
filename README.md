@@ -1,0 +1,2 @@
+# akash
+for git commands
